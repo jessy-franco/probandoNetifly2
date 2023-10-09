@@ -3,7 +3,7 @@ import ItemCount from "../ItemCount/ItemCount";
 import cartContext from '../../store/CartContext';
 import swal from 'sweetalert';
 import { Link } from "react-router-dom";
-import Button from "../Button/Buttons";
+import Button from "../Button/buttons";
 import "./itemDetail.css"
 
 
