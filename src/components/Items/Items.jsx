@@ -1,7 +1,7 @@
 
 import React, { useState} from "react";
 import {Link} from "react-router-dom"
-import Button from "../Button/Buttons"
+import Button from "../Button/buttons"
 import "./itemStyle.css"
 
 function ItemsCard(product) {
