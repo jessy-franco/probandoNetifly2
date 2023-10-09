@@ -1,0 +1,21 @@
+.containerFooter{
+    width: 100%;
+    height: auto;
+    position: absolute;
+    bottom: -1576px;;
+    max-width: 1280px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: aquamarine; 
+
+
+}
+
+
+.footerStyle section div p {
+    margin-top: 5%;
+}
+
+.footerStyle section div .containerIcons {
+    margin-top: 40%;
+}

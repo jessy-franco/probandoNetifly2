@@ -1,0 +1,12 @@
+
+.ckeck{
+    background-image: url("/public/Img/fondo-blanco-y-negro-con-las-hojas.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 2%;
+};

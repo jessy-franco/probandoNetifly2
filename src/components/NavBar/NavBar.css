@@ -1,0 +1,30 @@
+
+.flex{
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    align-content: space-between;
+    margin: 0 2%;
+    padding: 0px 18% !important;
+} 
+
+nav a{
+    text-decoration: unset;
+    padding: 2%;
+    font-size: 1.2rem;
+    color: var(--bs-nav-link-color);
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+
+nav a:hover{
+    color: green;
+}
+nav a button span:hover{
+    color: green;
+}
+.textStyle{
+    text-decoration: unset;
+    color: black;
+    padding: 2%;
+    font-size: 1.2rem;
+}

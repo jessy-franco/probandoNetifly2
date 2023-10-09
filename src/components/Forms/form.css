@@ -1,0 +1,32 @@
+.formStyle{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2%;
+    margin: 0 30%;
+    border: green solid 2px;
+}
+.formStyle input{
+    text-decoration: underline;
+    outline: none;
+    z-index: 1;
+    position: relative;
+    background: none;
+    width: 100%;
+    height: 60px;
+    border: 0;
+    color: #212121;
+    font-size: 24px;
+    font-weight: 400;
+    background-color: #c4d8c4;
+}
+
+.formStyle button{
+    padding: 2%;
+    padding: 3%;
+    margin: 6%;
+    background-color: #ccdecc;
+    border: green solid 1.5px;
+    border-radius: 26px;
+}
