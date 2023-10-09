@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Button from "../Button/Buttons";
+import Button from "../Button/buttons";
 import "./itemcount.css";
 
 function ItemCount({ stock, onAddToCart, text }) {
